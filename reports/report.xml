@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites name="jest tests" tests="1" failures="0" errors="0" time="1.226">
+  <testsuite name="movieSearch" errors="0" failures="0" skipped="0" timestamp="2023-12-31T07:58:41" time="1.181" tests="1">
+    <testcase classname="movieSearch returns single result for exact match" name="movieSearch returns single result for exact match" time="0.016">
+    </testcase>
+  </testsuite>
+</testsuites>

@@ -1,6 +1,6 @@
-# Your Project Name
+# ScreenSailor
 
-Your project description goes here.
+A command-line tool, that enable users to search movies or TV shows by title, showcasing vital details like title, release year, rating, and plot summary.
 
 ## Prerequisites
 
@@ -12,7 +12,7 @@ Your project description goes here.
 1. **Clone the repository:**
 
    ```bash
-   git clone https://github.com/sushantdsuwal/ScreenSailor.git
+   git clone [https://github.com/sushantdsuwal/ScreenSailor.git](https://github.com/sushantdsuwal/ScreenSailor.git)
    
 ### Navigate to the project directory:
 `cd ScreenSailor`
